@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://lineup.ua" target="_blank">
     <img alt="lineup-logo" src="../lineup-logo-full-light.svg#gh-light-mode" width="300">
-    <img alt="lineup-logo" src="../lineup-logo-full-dark.svg#gh-dark-mode" width="300">
   </a>
 </p>
 <hr>
