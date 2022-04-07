@@ -1,6 +1,12 @@
 <br>
-<img src="../lineup-logo-full-dark.svg#gh-light-mode-only" align="center" width="350">
-<img src="../lineup-logo-full-light.svg#gh-dark-mode-only" align="center" width="350">
+
+<p align="center">
+  <img src="../lineup-logo-full-dark.svg#gh-light-mode-only" width="350">  
+</p>
+<p align="center">
+<img src="../lineup-logo-full-light.svg#gh-dark-mode-only" width="350">
+</p>
+
 <hr>
 
 ## Hi there 👋
