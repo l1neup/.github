@@ -1,5 +1,9 @@
 <br>
-<p align="center"><a href="https://lineup.ua" target="_blank"><img alt="lineup-logo" src="https://lineup.com.ua/wp-content/uploads/2019/02/lineup-1.svg" width="300"></a></p>
+<p align="center">
+  <a href="https://lineup.ua" target="_blank">
+    <img alt="lineup-logo" src="https://lineup.com.ua/wp-content/uploads/2019/02/lineup-1.svg" width="300">
+  </a>
+</p>
 <hr>
 
 ## Hi there 👋
