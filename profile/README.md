@@ -1,7 +1,8 @@
 <br>
 <p align="center">
   <a href="https://lineup.ua" target="_blank">
-    <img alt="lineup-logo" src="![Logo](../lineup-logo-full-{{ ctx.theme }}.svg)" width="300">
+    <img alt="lineup-logo" src="![GitHub Light](../lineup-logo-full-light.svg#gh-light-mode)" width="300">
+    <img alt="lineup-logo" src="![GitHub Dark](../lineup-logo-full-dark.svg#gh-dark-mode)" width="300">
   </a>
 </p>
 <hr>
