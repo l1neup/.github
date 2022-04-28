@@ -7,6 +7,10 @@
   <img src="https://github.com/l1neup/.github/blob/main/lineup-logo-full-light.svg#gh-dark-mode-only" width="350">
 </p>
 
+<h1 align="center">
+  IT Without limits
+</h1>
+
 <hr>
 
 ## Hi there 👋
